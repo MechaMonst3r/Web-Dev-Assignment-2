@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+/* Question 2 for Assignment 2
+   Comp 2680 Section 2
+   Lukas Bowden, T00040951
+   2019-10-02 */
+   
+/* A */
+
+footer
+     {
+	  background-color: rgb(36, 171, 255);
+      font-family: Arial;
+      color: rgb(0, 3, 97);
+      padding: 10px 10px 10px 10px;	 
+      border: 2px dashed rgb(0, 3, 97);	  
+	 }   
+	 
+/* B */
+
+notice
+     {
+	  margin: auto;
+      width: 80%;	  
+	 }	 
+	 
+/* C */
+
+class
+     {
+      text-decoration: underline;
+      text-decoration-style: dotted;
+	  text-decoration-color: red;
+	  color: blue;
+	 }
+	 
+/* D */
+
+h1
+  {
+   color: white;
+   text-shadow: 2px 2px 4px rgb(0, 0, 0);
+   background-color: rgba(0, 5, 158, 0.5);
+   font-size: 4em;
+   font-family: sans-serif;
+  }	 
+  
+/* E */
+
+feature
+  {
+   background-color: white;
+   width: 80%;
+   font-family: Arial;
+   font-size: small;
+   color: red;
+   text-shadow: 3px 3px 5px rgb(0, 0, 0);   
+  }  
+	 
